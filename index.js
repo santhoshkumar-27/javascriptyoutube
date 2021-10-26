@@ -27,3 +27,15 @@ function letvar(){
 }
 
 letvar();
+
+// Binary Operator
+console.log(54+56);
+console.log(52*2);
+console.log(32-2);
+console.log(15/5);
+console.log(54%5);
+// uniary operator
+a = 1;
+console.log(a++);
+console.log(a);
+console.log(++a);
