@@ -1,3 +1,7 @@
 {
-  "recommendations": ["xabikos.javascriptsnippets"]
+  "recommendations": [
+    "xabikos.javascriptsnippets",
+    "ms-vscode.js-debug-nightly",
+    "akamud.vscode-javascript-snippet-pack"
+  ]
 }
